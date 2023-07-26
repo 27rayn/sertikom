@@ -103,6 +103,7 @@ if (isset($_GET['delete'])) {
                </tr>
             <?php } ?>
          </table>
+         <input type="submit" class="btn" name="logout" value="Log out">
       </div>
 
    </div>
